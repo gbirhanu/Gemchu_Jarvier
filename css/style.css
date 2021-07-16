@@ -10,13 +10,23 @@ bod {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #eee;
 }
 #img-div {
   background-color: white;
 }
 
-#tribute-info{
+#tribute-info {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+#image {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+}
+.container {
+  width: 80%;
 }
