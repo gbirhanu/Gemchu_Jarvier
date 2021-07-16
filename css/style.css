@@ -14,3 +14,9 @@ bod {
 #img-div {
   background-color: white;
 }
+
+#tribute-info{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
